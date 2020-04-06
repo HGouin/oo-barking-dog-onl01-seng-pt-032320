@@ -1,4 +1,5 @@
 class Dog
-  def name=(dpg_name)
+  def name=(dog_name)
   end
 def name
+end
